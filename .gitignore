@@ -1,3 +1,5 @@
 ScriptableObject/Library/
 ScriptableObject/Logs/
 ScriptableObject/Temp/
+ScriptableObject/.vs/
+ScriptableObject/obj/
